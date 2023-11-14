@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T01:48:37.223Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="wu9R0eW-oUHnojESxf5c" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T01:49:37.316Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="_JSqD8EWZEGfmGH4xgKS" version="22.1.0" type="github">
   <diagram name="Page-1" id="QR13LYVDM_UBqeWPz9cc">
     <mxGraphModel dx="2125" dy="1916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -278,7 +278,7 @@
           <mxGeometry y="90" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q5pfX6Huioxld37214II-70" value="Filestore of mik-ssr-pdp&lt;br&gt;use different directory to store template files of different langauges" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="10" y="430" width="130" height="110" as="geometry" />
+          <mxGeometry x="40" y="430" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="q5pfX6Huioxld37214II-71" value="glb scheme" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="573" y="410" width="130" height="110" as="geometry" />
